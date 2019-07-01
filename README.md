@@ -2,7 +2,7 @@
 This was a project in my first year of Epitech and was therefore coded in C.<br/>
 I coded this project together with my fellow student Johannes Timmreck in a span of two weeks.<br/>
 For a succesfull compilation, the csfml library is required.<br/>
-Use the Makefile to compile all the code with GCC, the binary name will be "my_defender".<br/>
+Use the Makefile to compile all the code with GCC by typing "make re", the binary name will be "my_defender".<br/>
 To launch the game simply execute the binary, instructions on how to play the game will be shown<br/>
 in the game itself.<br/>
 Art Sources:<br/>
